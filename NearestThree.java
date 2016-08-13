@@ -78,7 +78,7 @@ public class NearestThree {
 					}
 					
 					
-			System.out.println("the frnds of "+itr.getValue()+" are \n"+min1name+":"+min1+"\n"+min2name+":"+min2+"\n"+min3name+":"+min3);
+			System.out.println("the frnds of "+itr.getValue()+" are \n"+min1name+"\n"+min2name+"\n"+min3name);
 			min1=min2=min3=1000;
 			min1name=min2name=min3name="";
 			
