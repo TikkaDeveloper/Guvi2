@@ -34,7 +34,7 @@ public class NearestThree {
 		for(Map.Entry<Integer, String> itr:tmap.entrySet())
 		{
 			tname=itr.getValue();
-			System.out.println(tname);
+			
 		//	itrj=c.iterator();
 					for(Map.Entry<Integer, String> itr2: tmap.entrySet())
 					{	
