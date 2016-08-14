@@ -45,9 +45,8 @@ public class MakeMatrixZeroes {
 		int a[][]=new int[n][n];
 		
 		//the visited rows and columns indicate that they are made into zeroes and need not be visited again
-		int colVisited[]=new int[n];
-		int rowVisited[]=new int[n];
-	
+		
+		System.out.println("Enter the matrix");
 		//get matrix
 		for(int i=0;i<n;i++)
 		{
